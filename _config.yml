@@ -1,8 +1,8 @@
 # ----------------------------------------------------------------------------
 # REQUIRED: Update these fields before publishing your site
 # ----------------------------------------------------------------------------
-title: Your Name              # appears in browser tab and header
-author: Your Name             # your name (used in meta tags)
+title:               # appears in browser tab and header
+author: Isabel Hunt             # your name (used in meta tags)
 description: A short description of your portfolio site.
 url: "https://xanthan-web.github.io"   # your full site URL (no trailing slash)
 baseurl:         # leave empty for username.github.io repos
